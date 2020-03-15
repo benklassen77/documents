@@ -1,3 +1,3 @@
 # Examples
 
-## [Statics](statics.md)
+## [Statics](statics/home.md)
