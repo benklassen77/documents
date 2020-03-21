@@ -1,3 +1,3 @@
 # Solutions
 
-## [Chapter 1](Chapter-1.pdf)
+## [Chapter 1](Chapter_1.pdf)
